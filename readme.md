@@ -1,5 +1,5 @@
 # 🚩 Personalizando exceções e respostas para exceções
-Nesse repositório encontra-se o projeto criado [na aula de exceções do Dr Waka](https://www.youtube.com/watch?v=Ld7oJLpqg1w&list=PLW-dZIlNFXq8-HpeyOs8UeHhd7ox6shEW).
+Nesse repositório encontra-se o projeto criado [na aula de exceções do Dr Waka](https://www.youtube.com/watch?v=ss9ngPCXYQs).
 
 A aula aborda como personalizar suas exceções e como personalizar as respostas quando uma exceção acontece em [Java](https://www.java.com/pt-BR/)/[Spring](https://spring.io/).
 
